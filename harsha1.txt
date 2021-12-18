@@ -1,2 +1,0 @@
-this file contain the normal test:wq
-
